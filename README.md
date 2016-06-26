@@ -5,7 +5,9 @@ A simple utility that _temporarily_ fixes the issue on OSX machines where Spotif
 
 **What are these files?**
 README.md - this file, ignore it
+
 fix_spotify.zip - a "compiled" version of the apple script, this is the only file you need. Simply download and unzip it to your desktop. Double click everytime spotify is acting up. If you're getting annoying untrusted app/script dialog, then download the raw applescript file.
+
 fix_spotify.applescript - the raw applescript file. Download this only if you don't trust my zip file above -or- if you're getting annoying dialogs about untrusted apps/scripts. Just save it to your desktop and double click to open it in Script Editor. From there you can push the play button to execute it _or_ you can compile it into an executable so you only have to double click it. To do this hit File > Export and save with the File Format being "Application".
 
 
