@@ -19,3 +19,7 @@ The easiest way is to open Activity Monitor and find the process called Spotify 
 
 ###Are there any downsides?
 Killing the Spotify Helper process seems to have the side effect of resetting the view inside the player back to the original intro screen just like if you had opened spotify for the first time. However whatever song(s) are currently in your queue as well as currently playing will still continue to play as normal.
+
+
+##TODO:
+**Automate the script to automatically kill Spotify Helper if it goes over 99% usuage** - this can easily be done, but would require installing some additional software as root. Let's give Spotify a chance to fix this first before resorting to something this drastic.
