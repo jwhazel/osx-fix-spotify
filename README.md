@@ -1,3 +1,5 @@
+*Moving to archive status. (Thankfully) Spotify fixed this issue quite a while ago*
+
 # osx-fix-spotify
 
 A simple utility that _temporarily_ fixes the issue on OSX machines where Spotify Helper will consume >99% cpu. The script really doesn't do anything fancy, it just executes `kill -KILL [spotifyhelperPID]` in the terminal.  I was getting tired of having to do this several times a day so I automated into a double click by writing the script and putting it on my desktop.
